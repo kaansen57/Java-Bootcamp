@@ -1,0 +1,19 @@
+
+****** Referans veri tipleri *******
+String
+Array
+Interface
+Class
+Enumeration
+Annotations
+
+****** Primitive veri tipleri *******
+int
+char
+boolean
+double
+float
+byte
+short
+long
+
